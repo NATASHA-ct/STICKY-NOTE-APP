@@ -60,44 +60,24 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [STICKY NOTE APP] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
+> Sticky Note App is an interactive web application that allows users to create and manage virtual sticky notes in a web browser. This repository contains the source code for a fully functional Note app built using JavaScript, HTML, and CSS. The user interface is simple and intuitive, so anyone can start using the app right away. Thanks to its responsive design, the application is optimized for use on both desktop and mobile devices. Whether you want to stay organized or just want a fun and creative way to jot down your thoughts, this JavaScript Sticky Note app is the perfect solution.
 
-**[your_project__name]** is a...
+
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
+- JavaScript
+- Html
+- Sass
 
-<details>
-  <summary>Client</summary>
-  <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-  </ul>
-</details>
 
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
-
-> Describe between 1-3 key features of the application.
 
 - **[key_feature_1]**
 - **[key_feature_2]**
@@ -203,27 +183,17 @@ Example:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
+👤 **NATASHA TATENDA CHIROMBE**
 
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@NATASHA-ct]((https://github.com/NATASHA-ct)
+- Twitter: [@NatashaChirombe]
+- LinkedIn: [Natasha Chirombe](linkedin.com/in/natasha-chirombe-1531aa17b)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
 
 - [ ] **[new_feature_1]**
 - [ ] **[new_feature_2]**
