@@ -1,0 +1,86 @@
+html {
+  width: 100%;
+  box-sizing: border-box;
+  color: #101010;
+}
+
+body {
+  width: 100%;
+  font-family: Lato, sans-serif;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --black: #272a31;
+  --orange: #ec5242;
+  --grey: #d3d3d3;
+  --white: #fff;
+  --darkgrey: rgb(96, 92, 92);
+  --text: grey;
+}
+
+li{
+    height:250px;
+    list-style-type: none;
+    border: 2px solid red;
+    padding:15px 20px 20px;
+}
+
+.notes-wrapper{
+    display: grid;
+    grid-template-columns: repeat(auto-fill,265px);
+    padding:2em 1em;
+    gap: 20px;
+    background-color: #f5f5f5;
+
+}
+/* add note card */
+.add-note{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #5f7772;
+    cursor: pointer;
+    border: 2px dashed #5f7772;
+}
+
+.addicon{
+    font-size: 4em;
+}
+
+.add-note p{
+    font-weight: 500;
+    margin-top: 2em;
+}
+/* note card */
+.note-card{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100%;
+    padding: 1em;
+    border-radius: 5px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    transition: all 0.3s ease-in-out;
+}
+
+.nt-title{
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.nt-content{
+    font-size: 14px;
+    color: #566663;
+    margin-top: 1em;
+}
+
